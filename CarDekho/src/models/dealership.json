@@ -1,0 +1,45 @@
+{
+    "dealership": {
+      "name": "Example Motors",
+      "location": "123 Main St, Cityville, State, Country",
+      "phone": "+1234567890",
+      "email": "info@examplemotors.com",
+      "inventory": [
+        {
+          "make": "Toyota",
+          "models_available": ["Camry", "Corolla", "Rav4"],
+          "total_available": 25
+        },
+        {
+          "make": "Honda",
+          "models_available": ["Civic", "Accord", "CR-V"],
+          "total_available": 20
+        },
+        {
+          "make": "Ford",
+          "models_available": ["F-150", "Escape", "Explorer"],
+          "total_available": 15
+        }
+      ],
+      "sales_staff": [
+        {
+          "name": "John Smith",
+          "position": "Sales Manager",
+          "phone": "+1234567891",
+          "email": "john@examplemotors.com"
+        },
+        {
+          "name": "Sarah Johnson",
+          "position": "Sales Consultant",
+          "phone": "+1234567892",
+          "email": "sarah@examplemotors.com"
+        }
+      ],
+      "service_center": {
+        "hours": "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM",
+        "phone": "+1234567893",
+        "email": "service@examplemotors.com"
+      }
+    }
+  }
+  

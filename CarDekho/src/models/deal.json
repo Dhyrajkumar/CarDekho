@@ -1,0 +1,16 @@
+{
+    "car_id": "611f4ee15f4f85a1c0be3271",
+    "deal_info": {
+      "deal_date": "2024-02-22",
+      "buyer_name": "John Doe",
+      "buyer_email": "johndoe@example.com",
+      "seller_name": "Jane Smith",
+      "seller_email": "janesmith@example.com",
+      "price": 25000,
+      "payment_method": "Bank Transfer",
+      "delivery_address": "123 Main St, Cityville, State, Country",
+      "delivery_date": "2024-03-01",
+      "additional_notes": "Please ensure the vehicle is fully serviced before delivery."
+    }
+  }
+  

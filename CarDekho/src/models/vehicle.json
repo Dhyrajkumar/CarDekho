@@ -1,0 +1,44 @@
+{
+    "vehicles": [
+      {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "color": "Silver",
+        "vin": "1N4AL3AP8FN300999",
+        "license_plate": "ABC1234",
+        "mileage": 15000,
+        "fuel_type": "Gasoline",
+        "transmission": "Automatic",
+        "engine_size": "2.5L",
+        "features": ["Bluetooth", "Backup Camera", "Lane Departure Warning"]
+      },
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2020,
+        "color": "Red",
+        "vin": "5XYZ1234567890123",
+        "license_plate": "XYZ5678",
+        "mileage": 20000,
+        "fuel_type": "Gasoline",
+        "transmission": "CVT",
+        "engine_size": "1.5L",
+        "features": ["Apple CarPlay", "Android Auto", "Collision Mitigation Braking System"]
+      },
+      {
+        "make": "Ford",
+        "model": "F-150",
+        "year": 2021,
+        "color": "Black",
+        "vin": "1FTFW1EF7MFC12345",
+        "license_plate": "DEF9012",
+        "mileage": 25000,
+        "fuel_type": "Diesel",
+        "transmission": "Automatic",
+        "engine_size": "3.0L",
+        "features": ["Towing Package", "Remote Start", "Blind Spot Information System"]
+      }
+    ]
+  }
+  

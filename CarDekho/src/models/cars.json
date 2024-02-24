@@ -1,0 +1,17 @@
+{
+    "type": "Sedan",
+    "name": "Toyota",
+    "model": "Camry",
+    "car_info": {
+      "year": 2022,
+      "color": "Silver",
+      "vin": "1N4AL3AP8FN300999",
+      "license_plate": "ABC1234",
+      "mileage": 15000,
+      "fuel_type": "Gasoline",
+      "transmission": "Automatic",
+      "engine_size": "2.5L",
+      "features": ["Bluetooth", "Backup Camera", "Lane Departure Warning"]
+    }
+  }
+  
